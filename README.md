@@ -1,0 +1,1 @@
+Este repositorio reúne distintos proyectos hechos en JavaScript para practicar, aprender y experimentar con el lenguaje. Vas a encontrar desde ejercicios básicos hasta aplicaciones funcionales que te ayudan a entender mejor cómo usar JS en diferentes contextos.
